@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yisakabrahamk" alt="yisakabrahamk" /></a> </p>
 
-- 📝 I write articles on [yisak.me](yisak.me)
+- 📝 I write articles on [yisak.me](www.yisak.me)
 
 - 📫 How to reach me **YisakAbrahamK@gmail.com**
 
