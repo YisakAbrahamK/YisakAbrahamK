@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yisak</h1>
 <h3 align="center">A passionate frontend developer and a computer science student.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;" src="https://github-profile-trophy.vercel.app/?username=yisakabrahamk&title=Commit,Experience,Repository,Followers" alt="yisakabrahamk" /></a> </p>
+<div style="text-align: center;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yisakabrahamk&title=Commit,Experience,Repository,Followers" alt="yisakabrahamk" /></a> </div>
 
 - 📝 I write articles on [yisak.me](https://www.yisak.me/)
 
