@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yisak</h1>
-<h3 align="center">A passionate frontend developer and a computer science student who seeks to make a positive impact on the world 🌎.</h3>
+<h3 align="center">A passionate frontend developer and a computer science student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yisakabrahamk&label=Profile%20views&color=0e75b6&style=flat" alt="yisakabrahamk" /> </p>
 
