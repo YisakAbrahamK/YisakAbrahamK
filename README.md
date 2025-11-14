@@ -1,3 +1,4 @@
+<h1 align="center">Hi, I'm Yisak</h1>
 <h3 align="center">A passionate frontend developer and a computer science student.</h3>
 
 - 📝 I write articles on [yisak.me](https://www.yisak.me/)
