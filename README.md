@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yisak</h1>
+<h1>Hi, I'm Yisak</h1>
 
 - 📝 I write articles on [yisak.me](https://www.yisak.me/)
 
